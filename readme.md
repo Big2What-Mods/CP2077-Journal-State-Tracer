@@ -206,9 +206,6 @@ It only captures journal state at the beginning and end of a trace, compares the
 
 ---
 
-## Credits
-
-Created by Big2What & ChatGPT GPT-5.6 Sol.
 
 Developed as a standalone Cyberpunk 2077 research and mod-development utility.
 

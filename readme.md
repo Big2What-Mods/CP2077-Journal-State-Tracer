@@ -1,5 +1,7 @@
 <div align="center">
 
+![CP2077 Journal State Tracer](images/Mod_Post_Head.png)
+
 # CP2077 Journal State Tracer
 
 **A standalone, read-only CET utility for tracing Cyberpunk 2077 journal state changes during gameplay.**
